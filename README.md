@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Nitin%20Kushwah&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20Things%20on%20the%20Web%20%7C%20IIT%20Guwahati&descAlignY=58&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,30&height=160&section=header&text=Nitin%20Kushwah&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Undergrad%20%40%20IIT%20Guwahati%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=15"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+(MERN);Learning+%E2%86%92+Building+%E2%86%92+Shipping;Open+Source+Contributor+%F0%9F%8C%B1;Open+to+Work+%7C+Open+to+Relocate+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Learning+%E2%86%92+Building+%E2%86%92+Shipping;Open+Source+Contributor+%F0%9F%8C%B1;Open+to+Internships+%7C+Open+to+Relocate+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kushwah-iitg/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nitinkushwahcodes.github.io/nitin.portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitin.kushwah.cs@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nitin-kushwah-iitg/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nitin_k_18)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nitin52005)
-[![Profile Views](https://komarev.com/ghpvc/?username=NitinKushwahcodes&style=for-the-badge&color=00d9ff&label=VIEWS)](https://github.com/NitinKushwahcodes)
+<a href="https://www.linkedin.com/in/nitin-kushwah-iitg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://nitinkushwahcodes.github.io/nitin.portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:nitin.kushwah.cs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://leetcode.com/u/nitin-kushwah-iitg/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://codeforces.com/profile/nitin_k_18" target="_blank"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://www.codechef.com/users/nitin52005" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://github.com/NitinKushwahcodes" target="_blank"><img src="https://komarev.com/ghpvc/?username=NitinKushwahcodes&style=for-the-badge&color=00d9ff&label=VIEWS" alt="Profile Views"/></a>
 
 </div>
 
@@ -33,7 +33,7 @@ const nitin = {
 };
 ```
 
-I'm a CS undergrad at IIT Guwahati who enjoys building things end-to-end — from database design to UI. My degree is in Data Science & AI, but my time goes into writing real software and understanding how systems work. Currently focused on strengthening my development skills through projects and open source, while keeping problem solving consistent through DSA.
+I'm a CS undergrad at IIT Guwahati building things end-to-end — from database design to UI. I study Data Science & AI, which gives me strong analytical foundations, but software engineering is where I've chosen to invest my energy: designing systems, writing clean APIs, and understanding how everything fits together. Currently deepening my development skills through projects and open source contributions, while keeping my problem-solving sharp through consistent DSA practice.
 
 ---
 
@@ -57,8 +57,8 @@ A production-deployed full stack app — complete frontend + backend.
 - MVC architecture with centralized async error handling
 - Environment-separated config for dev/prod
 
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://taskflowxt.netlify.app/)
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NitinKushwahcodes)
+<a href="https://taskflowxt.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/NitinKushwahcodes" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ Full stack MERN app integrating LLMs for structured interview feedback.
 - Context API + custom hooks for state management
 - *Currently in active development*
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NitinKushwahcodes)
+<a href="https://github.com/NitinKushwahcodes" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ Backend-only quant system — no UI, pure logic and performance.
 - Virtual portfolio with PnL tracking and trade history
 - 500+ datapoints processed per cycle in under 300ms
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NitinKushwahcodes)
+<a href="https://github.com/NitinKushwahcodes" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -160,12 +160,12 @@ Backend-only quant system — no UI, pure logic and performance.
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NitinKushwahcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NitinKushwahcodes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinKushwahcodes&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinKushwahcodes&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=NitinKushwahcodes&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -180,6 +180,6 @@ Backend-only quant system — no UI, pure logic and performance.
 
 📍 Noida, UP &nbsp;|&nbsp; 📧 nitin.kushwah.cs@gmail.com &nbsp;|&nbsp; Open to Relocate ✅
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,30&height=100&section=footer"/>
 
 </div>
