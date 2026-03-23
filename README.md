@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,30&height=160&section=header&text=Nitin%20Kushwah&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Undergrad%20%40%20IIT%20Guwahati%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,30&height=160&section=header&text=Nitin%20Kushwah&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Undergrad%20%40%20IIT%20Guwahati%20%7C%20Software%20Enthusiast&descAlignY=58&descSize=15"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Learning+%E2%86%92+Building+%E2%86%92+Shipping;Open+Source+Contributor+%F0%9F%8C%B1;Open+to+Internships+%7C+Open+to+Relocate+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Learning+%E2%86%92+Building+%E2%86%92+Shipping;Competitive+Programmer+%7C+Problem+Solver+%F0%9F%A7%A0;DSA+%7C+Codeforces+%7C+LeetCode" alt="Typing SVG" />
 </a>
 
 <br/><br/>
