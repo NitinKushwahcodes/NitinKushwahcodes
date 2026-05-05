@@ -24,7 +24,7 @@
 
 ```js
 const nitin = {
-  college   : "IIT Guwahati — BS (Hons) Data Science & AI, 2023–2027",
+  college   : "IIT Guwahati — BS (Hons) Data Science & AI, 2022–2026",
   location  : "Noida, Uttar Pradesh 🇮🇳  |  Open to Relocate",
   focus     : "Full Stack Development (Frontend + Backend)",
   currently : "Building projects, learning system design, contributing to open source",
